@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hw1.Hakkında" Title="Hakkında" >
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Bölüm Hakkında"
+                   TextColor="Red"
+                   FontSize="10"/>
+            <Label Text="Ülkemizde sanayinin ve teknolojinin gelişmesine bağlı olarak bilgisayar teknolojisi konusunda deneyimli ve nitelikli teknik personele gereksinim her geçen gün daha da artmaktadır. Eskişehir Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü, ülkemizin bu anlamda ihtiyacı olan güncel bilgi birikimine sahip bilgisayar mühendisleri yetiştirmek amacıyla 1993 yılında kurulmuş olup 2000-2001 öğretim yılında lisans düzeyinde eğitime başlamıştır. Bölümümüz, bu tarihten beri kaliteli eğitim anlayışından ödün vermeden, hem akademik kadrosunu hem de altyapısını bilgisayar teknolojilerindeki değişimlere ayak uyduracak şekilde geliştirmekte; bilgili, bilinçli, donanımlı ve etik değerlere önem veren Bilgisayar Mühendisleri yetiştirmektedir. Lisans programının yanında yüksek lisans ve doktora eğitimi de verilmektedir.
+                         Bölümde eğitim dili İngilizce'dir. Eğitim süresi, 1 yıllık İngilizce hazırlık sınıfı ve 4 yıllık lisans programı olmak üzere toplam 5 yıldır. Bölüm, Eskişehir Teknik Üniversitesi İki Eylül kampüsünde yer almaktadır ve 5000 m2'lik bir alana sahiptir."
+                    FontSize="10"/>
+            <Label Text="Misyon"
+                   TextColor="Red"
+                   FontSize="10"/>
+            <Label Text="Özgörevimiz, çağdaş ve evrensel nitelikte bilgi üreten, bu bilgiyi toplumun faydası için kullanan, temel değerlerimizi benimsemiş, mesleklerinde lider konumda olan mühendisler yetiştirmektir."
+                    FontSize="10"/>
+            <Label Text="Vizyon"
+                   TextColor="Red"
+                   FontSize="10"/>
+            <Label Text="Vizyonumuz, mezunlarımızın ve öğretim elemanlarımızın geliştirdiği nitelikli projeler ve toplumsal katkılarıyla gerek yurtiçi gerekse yurtdışındaki Bilgisayar Mühendisliği Bölümleri arasında önde gelenlerden biri olmaktır. "
+                   FontSize="10"/>
+            <Label Text="TEmel Değerler"
+                   TextColor="Red"
+                   FontSize="10"/>
+            <Label Text="Bilimsellik
+                         İnsan Odaklılık
+                         Yenilikçilik
+                         Mükemmeliyetçilik
+                         Kararlılık
+                         Duyarlılık
+                         İş Etiğine Bağlılık
+                         Yaşam Boyu Öğrenme Bilinci" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
